@@ -2,7 +2,7 @@
 
 ### Links
 
-- Live Site URL: [](https://your-live-site-url.com)
+- Live Site URL: [https://ushisha.github.io/color-shades-generator/](https://ushisha.github.io/color-shades-generator/)
 
 ### Built with
 
