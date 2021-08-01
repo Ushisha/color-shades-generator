@@ -2,7 +2,7 @@
 
 ### Links
 
-- Live Site URL: [https://ushisha.github.io/color-shades-generator/](https://ushisha.github.io/color-shades-generator/)
+- Live Site URL: [https://color-shades-generator-ushisha.netlify.app/](https://color-shades-generator-ushisha.netlify.app/)
 
 ### Built with
 
