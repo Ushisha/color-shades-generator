@@ -1,4 +1,4 @@
-# Color Shade Generator
+# Color Shades Generator
 
 ### Links
 
